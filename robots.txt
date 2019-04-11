@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /favicon.ico
+
+sitemap: https://github.com/yukikoty/yukikoty.github.io/Sitemap.xml
