@@ -1,4 +1,4 @@
-User-agent: *
+User-gent: *
 Disallow: /favicon.ico
 
-sitemap: https://github.com/yukikoty/yukikoty.github.io/Sitemap.xml
+Sitemap: https://yukikoty.github.io/Sitemap.xml
