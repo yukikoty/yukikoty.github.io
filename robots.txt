@@ -1,4 +1,4 @@
 User-gent: *
 Disallow: /favicon.ico
 
-Sitemap: https://yukikoty.github.io/Sitemap.xml
+Sitemap: https://yukikoty.github.io/sitemap.xml
